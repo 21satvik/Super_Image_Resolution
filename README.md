@@ -10,3 +10,5 @@ The proposed method is based on unsupervised learning, where no ground truth hig
 Experimental results show that the proposed method achieves state-of-the-art performance in terms of image quality metrics, outperforming traditional methods and other deep learning-based methods. The ability to achieve high-quality restoration results with limited training data and the flexibility to adapt to different tasks make this project unique and innovative in the field of image super-resolution research.
 
 Keywords: Image super-resolution, deep image prior, unsupervised learning, deep neural networks, image restoration, open source.
+
+<img width="723" alt="Screenshot 2023-04-24 at 3 18 33 PM" src="https://user-images.githubusercontent.com/68138315/233962004-5bce122a-f312-44b2-8491-96d859a0a4dc.png">
